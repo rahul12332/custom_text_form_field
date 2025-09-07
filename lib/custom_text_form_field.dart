@@ -1,5 +1,4 @@
 import 'package:custom_text_form_field/regax_validator.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 import 'app_color.dart';

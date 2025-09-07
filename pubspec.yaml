@@ -1,8 +1,8 @@
 name: custom_text_form_field
 description: "This is custom form field for enhancing textfrom_field and give then initial value regax validator"
-version: 0.0.1
-homepage:
-
+version: 0.0.7
+homepage: https://github.com/rahul12332/custom_text_form_field/blob/main/lib/custom_text_form_field.dart
+repository: https://github.com/rahul12332/custom_text_form_field
 environment:
   sdk: ^3.7.2
   flutter: ">=1.17.0"

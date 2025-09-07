@@ -1,3 +1,5 @@
-## 0.0.1
+## 0.0.7 - 2025-09-07
 
-* TODO: Describe initial release.
+- Fixed non-final fields in CustomTextFormField class.
+- Removed unnecessary flutter/cupertino import.
+- Updated pubspec.yaml with homepage and repository.
